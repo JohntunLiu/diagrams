@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-14T14:02:51.250Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="jwhtOmqEstDrvVTQK4I4" version="14.6.12" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-15T12:56:19.043Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="TfUcBE2ME_UMEfI5zUuf" version="14.6.12" type="github">
   <diagram id="d6FZygUJHuY2WhgeGZ7e" name="Page-1">
-    <mxGraphModel dx="920" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="920" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -219,13 +219,13 @@
         <mxCell id="CE7ioUIo4Vw0ZdpwF3fm-86" value="保存用户信息到H5 session缓存" style="whiteSpace=wrap;html=1;fillColor=#fff;" vertex="1" parent="1">
           <mxGeometry x="380" y="2430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CE7ioUIo4Vw0ZdpwF3fm-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CE7ioUIo4Vw0ZdpwF3fm-88" target="CE7ioUIo4Vw0ZdpwF3fm-90">
+        <mxCell id="CE7ioUIo4Vw0ZdpwF3fm-91" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CE7ioUIo4Vw0ZdpwF3fm-88" target="CE7ioUIo4Vw0ZdpwF3fm-90">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CE7ioUIo4Vw0ZdpwF3fm-88" value="勾选‘记住我’？" style="rhombus;whiteSpace=wrap;html=1;fillColor=#B6D7E8;" vertex="1" parent="1">
           <mxGeometry x="380" y="2560" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="CE7ioUIo4Vw0ZdpwF3fm-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CE7ioUIo4Vw0ZdpwF3fm-88" target="CE7ioUIo4Vw0ZdpwF3fm-92">
+        <mxCell id="CE7ioUIo4Vw0ZdpwF3fm-93" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CE7ioUIo4Vw0ZdpwF3fm-88" target="CE7ioUIo4Vw0ZdpwF3fm-92">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CE7ioUIo4Vw0ZdpwF3fm-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CE7ioUIo4Vw0ZdpwF3fm-90" target="CE7ioUIo4Vw0ZdpwF3fm-84">
